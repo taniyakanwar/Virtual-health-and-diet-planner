@@ -1,17 +1,21 @@
-name,cal_per_100g,protein_g,diet_tag,cost_level
-Oats,389,17,Vegetarian,Low
-Almonds,576,21,Vegetarian,Medium
-Paneer,265,18,Vegetarian,Medium
-Greek Yogurt,59,10,Vegetarian,Low
-Spinach,23,2,Vegetarian,Low
-Chicken Breast,165,31,Non-Vegetarian,Medium
-Salmon,208,20,Non-Vegetarian,High
-Eggs,155,13,Non-Vegetarian,Low
-Tofu,144,16,Vegan,Low
-Quinoa,120,4,Vegetarian,Medium
-Brown Rice,111,2,Vegetarian,Low
-Peanut Butter,588,25,Vegan,Medium
-Lentils,116,9,Vegan,Low
-Chickpeas,164,9,Vegan,Low
-Avocado,160,2,Vegan,Medium
-Sweet Potato,86,1,Vegetarian,Low
+food_name,calories,meal_type,diet_type
+Oatmeal with fruits,150,breakfast,veg
+Paneer sandwich,200,breakfast,veg
+Boiled eggs,155,breakfast,non-veg
+Chicken omelette,220,breakfast,non-veg
+Idli with sambar,180,breakfast,veg
+Vegetable salad,120,lunch,veg
+Paneer curry with rice,320,lunch,veg
+Chicken curry with rice,350,lunch,non-veg
+Grilled fish with veggies,330,lunch,non-veg
+Dal with roti,250,lunch,veg
+Fruit smoothie,180,snack,veg
+Roasted chana,130,snack,veg
+Boiled corn,90,snack,veg
+Grilled chicken strips,200,snack,non-veg
+Egg sandwich,240,snack,non-veg
+Veg pulao with raita,280,dinner,veg
+Paneer butter masala with roti,350,dinner,veg
+Fish curry with rice,360,dinner,non-veg
+Chicken biryani,400,dinner,non-veg
+Mixed veg soup with bread,200,dinner,veg
