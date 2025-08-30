@@ -1,0 +1,17 @@
+name,cal_per_100g,protein_g,diet_tag,cost_level
+Oats,389,17,Vegetarian,Low
+Almonds,576,21,Vegetarian,Medium
+Paneer,265,18,Vegetarian,Medium
+Greek Yogurt,59,10,Vegetarian,Low
+Spinach,23,2,Vegetarian,Low
+Chicken Breast,165,31,Non-Vegetarian,Medium
+Salmon,208,20,Non-Vegetarian,High
+Eggs,155,13,Non-Vegetarian,Low
+Tofu,144,16,Vegan,Low
+Quinoa,120,4,Vegetarian,Medium
+Brown Rice,111,2,Vegetarian,Low
+Peanut Butter,588,25,Vegan,Medium
+Lentils,116,9,Vegan,Low
+Chickpeas,164,9,Vegan,Low
+Avocado,160,2,Vegan,Medium
+Sweet Potato,86,1,Vegetarian,Low
